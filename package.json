@@ -5,7 +5,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "rm -f dist/* && parcel build --public-url /atom-ls-dl/"
+    "build": "rm -f dist/* && parcel build --public-url ."
   },
   "author": "",
   "license": "ISC",
